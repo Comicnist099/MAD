@@ -1,0 +1,117 @@
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\bin\Debug\Proyecto Final de MAD.exe.config
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\bin\Debug\Proyecto Final de MAD.exe
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\bin\Debug\Proyecto Final de MAD.pdb
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\bin\Debug\Proyecto Final de MAD.xml
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\bin\Debug\itextsharp.dll
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Visual Basic.vbprojAssemblyReference.cache
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Addcliente.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.addclientecfe.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.addconsumo.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.addempleadocfe.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.cargatarifa.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.consulta_recibos_empleados.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.consumo_historico_cliente.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.consumo_historico.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.edit_cliente.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.edit_empleado.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.login.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.MainMenu.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.menu_admin.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.menu_cliente.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.menu_empleado.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Resources.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.pagar_recibos.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.recibos_clientes.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.recibos.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.reporte_consumos.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.reporte_tarifas.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.reportes.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Visual Basic.vbproj.GenerateResource.cache
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Visual Basic.vbproj.CoreCompileInputs.cache
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Visual Basic.vbproj.CopyComplete
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto Final de MAD.exe
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto Final de MAD.xml
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto Final de MAD.pdb
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Historial.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Contratos.resources
+C:\Users\INTELC7\Music\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Usuarios_desactivados.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\Proyecto Final de MAD.exe.config
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\Proyecto Final de MAD.exe
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\Proyecto Final de MAD.pdb
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\Proyecto Final de MAD.xml
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\itextsharp.dll
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Visual Basic.vbproj.AssemblyReference.cache
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Addcliente.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.addclientecfe.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.addconsumo.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.addempleadocfe.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.cargatarifa.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.consulta_recibos_empleados.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.consumo_historico_cliente.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.consumo_historico.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.edit_cliente.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.edit_empleado.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Contratos.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Historial.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.login.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.MainMenu.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.menu_admin.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.menu_cliente.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.menu_empleado.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Resources.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.pagar_recibos.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.recibos_clientes.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.recibos.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.reporte_consumos.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.reporte_tarifas.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.reportes.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Usuarios_desactivados.resources
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Visual Basic.vbproj.GenerateResource.cache
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Visual Basic.vbproj.CoreCompileInputs.cache
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Visual Basic.vbproj.CopyComplete
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto Final de MAD.exe
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto Final de MAD.xml
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto Final de MAD.pdb
+C:\Users\Victoria\Desktop\MAD\Proyecto Kevin\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.EditPuestos.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\Proyecto Final de MAD.exe.config
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\Proyecto Final de MAD.exe
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\Proyecto Final de MAD.pdb
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\Proyecto Final de MAD.xml
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\itextsharp.dll
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Visual Basic.vbproj.AssemblyReference.cache
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.AñadirUsuarioMarco.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.LoginMarco.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Menu_UsuarioMarco.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.ModificarInformacionClienteMarco.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Resources.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Visual Basic.vbproj.GenerateResource.cache
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Visual Basic.vbproj.CoreCompileInputs.cache
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Visual Basic.vbproj.CopyComplete
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto Final de MAD.exe
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto Final de MAD.xml
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto Final de MAD.pdb
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Agregar_Producto_Marco.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Menu_Usuario2Marco.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Menu_Usuario3Marco_Admin.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.AñadirUsuarios2Marco.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.AñadirUsuariosLogin.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Agregar_Sucursal_Marco.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Carrito_Marco.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Ver_Carrito_Marco.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Agregar_Horas_Marco.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Ver_Recibo.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.CargaMasivaProductos.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Carga_Masiva_Sucursales.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Baneos.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.BaneosEmpleados.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.ModificarInformacionAdmin.resources
+C:\Users\Victoria\Desktop\MAD\piaMad\proyecto final mad este si\Visual Basic\Visual Basic\obj\Debug\Proyecto_Final_de_MAD.Reporte_de_Carrito_y_Horas.resources

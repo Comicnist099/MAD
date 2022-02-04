@@ -1,0 +1,2 @@
+﻿ID,Nombre Completo,Domicilio,Número de Servicio,Fecha de Inicio,Límite de pago,Número de Medidor,Energía total,Kilowatts Básico,Kilowatts Intermedio,Kilowatts Excedente,Precio Básico,Precio Intermedio,Precio Excedente,Subtotal Básico,Subtotal Intermedio,Subtotal Excedente,Subtotal,IVA,Total,Tipo de tarifa,Pagado
+2,teresita davila rodriguez,azul 41561, abedul, guadalupe, nuevo leon,1,21/11/2021 12:00:00 a. m.,21/12/2021 12:00:00 a. m.,6512,400,150,130,120,1.0000,2.0000,3.0000,150.0000,260.0000,360.0000,770.0000,123.2000,893.2000,Industrial,No,
